@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"fmt" //Импортируем библиотеку fmt
 )
 
 func Add(a, b int) int {
